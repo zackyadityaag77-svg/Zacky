@@ -1,0 +1,8 @@
+USERNAME: admin
+PASSWORD: admin123
+
+USERNAME: petugas
+PASSWORD: petugas123
+
+USERNAME: owner
+PASSWORD: owner123
